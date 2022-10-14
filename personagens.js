@@ -18,6 +18,7 @@ function cadastrarPersonagem(personagem) {
 
 }
 
+
 function consultarIndice(personagem) {
     let indice = listaPersonagens.indexOf(personagem)
     if (indice >= 0) {
